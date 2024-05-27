@@ -1,0 +1,26 @@
+[
+  {
+    "cep": "02945286",
+    "logradouro": "Avenida Um",
+    "complemento": "",
+    "bairro": "Jardim Cidade Pirituba",
+    "localidade": "São Paulo",
+    "uf": "SP"
+  },
+  {
+    "cep": "05823075",
+    "logradouro": "Avenida Um",
+    "complemento": "",
+    "bairro": "Parque Santo Antônio",
+    "localidade": "São Paulo",
+    "uf": "SP"
+  },
+  {
+    "cep": "02203001",
+    "logradouro": "Avenida Ede",
+    "complemento": "de 505/506 ao fim",
+    "bairro": "Vila Ede",
+    "localidade": "São Paulo",
+    "uf": "SP"
+  }
+]
