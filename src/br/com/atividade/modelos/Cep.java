@@ -23,7 +23,7 @@ public class Cep implements Comparable<Cep>{
 
     @Override
     public String toString() {
-        return "cep: " + this.cep +
+        return "\ncep: " + this.cep +
                 "\nlogradouro: " + this.logradouro +
                 "\ncomplemento: " + this.complemento +
                 "\nbairro: " + this.bairro +
